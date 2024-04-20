@@ -1,0 +1,7 @@
+BookMain.java 의 코드를 보고 해당 코드가 실행될 수 있도록 Book.java를 완성하시오.
+
+  ### 멤버 변수
+
+- title (제목)
+- author (작가)
+- page (쪽수)
