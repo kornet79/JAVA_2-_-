@@ -1,0 +1,9 @@
+# HashMap
+
+## HashMap
+
+---
+
+- HashSet과는 다르게 key값을 찾아가서 다이렉트로 값을 가져옴.
+- Python의 딕셔너리라고 생각하면 편함.
+- 선언법 : `HashMap<Key의 자료형, Value의 자료형> 변수명 = new HashMap<>();`
